@@ -1,0 +1,13 @@
+column,definition
+customer_id,Unique fictional customer identifier
+region,Meridian reporting region
+customer_segment,Mass Market / Emerging Affluent / Affluent
+product_count,Number of Meridian products held by the customer
+deposit_balance,Current checking/savings deposit balance
+monthly_transactions,Typical monthly transaction count
+annual_fee_revenue,Annualized fee revenue attributable to the customer
+annual_interest_revenue,Annualized interest revenue attributable to the customer
+personal_loan_balance,Outstanding personal-loan balance; 0 if no loan
+loan_status,No Loan / Current / 30+ Delinquent / Charged Off
+support_tickets_ytd,Customer-support contacts year-to-date
+closed_account,1 if the customer closed their relationship during the observation period; otherwise 0

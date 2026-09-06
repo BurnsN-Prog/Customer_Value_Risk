@@ -1,0 +1,301 @@
+customer_id,region,customer_segment,product_count,deposit_balance,monthly_transactions,annual_fee_revenue,annual_interest_revenue,personal_loan_balance,loan_status,support_tickets_ytd,closed_account
+1,Northeast,Mass Market,2,6858.21,12,80.51,26.57,0.0,No Loan,0,1
+2,West,Emerging Affluent,2,13567.21,18,96.49,183.67,0.0,No Loan,2,0
+3,West,Mass Market,2,0,12,45.74,0,12572.46,30+ Delinquent,0,0
+4,Northeast,Emerging Affluent,2,22042.68,22,71.15,60.54,0.0,No Loan,0,0
+5,Northeast,Mass Market,2,3890.11,13,117.71,10.9,0.0,No Loan,0,0
+6,South,Mass Market,1,3376.61,15,49.6,187.69,0.0,No Loan,0,0
+7,West,Mass Market,1,5703.07,22,74.35,0,0.0,No Loan,0,0
+8,South,Emerging Affluent,2,4626.55,26,104.83,99.53,0.0,No Loan,0,0
+9,South,Mass Market,2,0,14,18.92,123.02,4215.25,Current,0,0
+10,Northeast,Mass Market,2,1572.33,14,21.83,169.56,0.0,No Loan,0,0
+11,Midwest,Mass Market,1,2709.84,6,73.46,113.17,0.0,No Loan,2,1
+12,West,Mass Market,4,5711.16,9,67.44,117.12,0.0,No Loan,0,0
+13,Northeast,Mass Market,1,0,20,49.58,143.23,0.0,No Loan,0,0
+14,South,Mass Market,2,6726.97,16,0,38.4,0.0,No Loan,3,0
+15,Midwest,Emerging Affluent,2,27790.35,32,79.42,136.89,0.0,No Loan,0,0
+16,Northeast,Mass Market,2,6792.06,25,149.77,49.17,2901.4,Current,0,0
+17,Northeast,Mass Market,1,11784.8,14,126.21,123.3,0.0,No Loan,2,0
+18,West,Mass Market,2,5189.2,18,0,104.39,3852.71,30+ Delinquent,0,1
+19,South,Affluent,3,39976.42,23,253.3,349.29,20494.8,30+ Delinquent,0,0
+20,Northeast,Mass Market,1,7919.62,21,180.96,67.13,0.0,No Loan,1,0
+21,West,Emerging Affluent,3,17644.29,29,16.57,137.86,0.0,No Loan,1,0
+22,South,Mass Market,1,6967.73,20,86.5,0,0.0,No Loan,0,0
+23,Midwest,Mass Market,1,5795.69,26,162.86,217.31,0.0,No Loan,0,0
+24,Midwest,Mass Market,1,4881.67,22,105.95,97.94,0.0,No Loan,0,0
+25,South,Emerging Affluent,3,20644.47,27,146.11,15.75,4524.09,30+ Delinquent,0,0
+26,West,Mass Market,1,1443.31,21,44.75,25.76,0.0,No Loan,1,1
+27,West,Affluent,3,0,33,192.05,351.59,0.0,No Loan,0,0
+28,Midwest,Affluent,2,43657.28,42,249.58,202.94,0.0,No Loan,0,0
+29,Northeast,Affluent,3,37081.07,29,136.14,280.95,0.0,No Loan,0,0
+30,South,Emerging Affluent,3,10548.32,24,75.31,281.26,0.0,No Loan,1,0
+31,Northeast,Emerging Affluent,2,19960.66,14,158.8,217.59,23975.91,Current,2,0
+32,Midwest,Mass Market,2,6926.63,14,117.04,124.43,10707.81,Current,2,0
+33,Northeast,Mass Market,1,1728.37,18,111.28,101.25,0.0,No Loan,0,0
+34,Northeast,Emerging Affluent,3,8748.47,17,135.96,188.47,0.0,No Loan,2,0
+35,Midwest,Mass Market,1,3407.59,24,85.38,116.08,0.0,No Loan,1,0
+36,West,Emerging Affluent,2,1990.54,22,61.07,149.35,0.0,No Loan,1,0
+37,Midwest,Mass Market,2,7586.16,13,132.53,93.23,16687.07,Current,0,0
+38,South,Affluent,3,16271.9,32,293.7,118.08,22333.76,Current,0,0
+39,Northeast,Mass Market,2,1362.72,9,102.7,0,0.0,No Loan,0,0
+40,South,Mass Market,1,8745.26,13,65.92,216.71,0.0,No Loan,0,0
+41,Midwest,Emerging Affluent,3,16967.06,32,151.69,243.16,0.0,No Loan,0,0
+42,Midwest,Mass Market,3,0,15,23.25,0,19616.7,Current,0,0
+43,West,Emerging Affluent,1,8907.42,18,58.32,133.8,0.0,No Loan,1,0
+44,Midwest,Mass Market,1,4473.72,21,125.54,111.91,0.0,No Loan,0,0
+45,Northeast,Mass Market,3,2638.08,12,83.8,0,15595.04,Current,1,0
+46,Midwest,Mass Market,1,6954.3,3,66.01,146.01,0.0,No Loan,0,0
+47,South,Mass Market,1,7027.41,17,85.65,99.71,0.0,No Loan,0,0
+48,South,Emerging Affluent,3,13581.54,14,204.28,156.83,0.0,No Loan,2,0
+49,Northeast,Mass Market,3,0,20,107.35,247.65,20704.9,Current,1,0
+50,Northeast,Affluent,2,30439.73,31,139.06,279.45,0.0,No Loan,0,0
+51,Northeast,Emerging Affluent,3,22736.41,28,149.86,295.7,0.0,No Loan,0,0
+52,Midwest,Emerging Affluent,2,19710.56,23,203.37,186.26,0.0,No Loan,1,0
+53,West,Mass Market,3,4182.65,24,182.89,206.44,0.0,No Loan,0,0
+54,Midwest,Affluent,2,38014.8,50,166.52,474.61,0.0,No Loan,1,0
+55,South,Emerging Affluent,1,18751.88,24,199.41,217.62,16915.91,Current,0,0
+56,West,Emerging Affluent,1,15118.79,17,193.84,238.38,0.0,No Loan,1,0
+57,Northeast,Affluent,4,49548.77,18,187.91,339.85,17316.87,Current,0,0
+58,Northeast,Mass Market,1,6718.69,5,78.33,146.53,0.0,No Loan,0,0
+59,Midwest,Mass Market,1,4209.11,13,125.67,139.36,0.0,No Loan,0,1
+60,Midwest,Mass Market,2,3909.61,23,173.07,0,0.0,No Loan,0,0
+61,Midwest,Mass Market,2,10841.93,1,50.09,76.97,0.0,No Loan,0,0
+62,Midwest,Emerging Affluent,2,2199.61,18,176.0,0,0.0,No Loan,0,0
+63,Midwest,Emerging Affluent,4,3031.6,25,134.36,350.45,0.0,No Loan,0,0
+64,Midwest,Mass Market,1,4714.3,18,77.55,100.73,0.0,No Loan,2,0
+65,West,Mass Market,2,9294.54,19,124.36,9.1,20070.74,Current,1,0
+66,Midwest,Mass Market,1,11165.75,35,68.42,31.83,0.0,No Loan,0,0
+67,South,Mass Market,2,5350.73,18,64.41,119.56,0.0,No Loan,1,0
+68,South,Mass Market,2,10418.03,23,108.44,143.58,0.0,No Loan,0,0
+69,West,Emerging Affluent,3,33837.73,24,158.14,6.06,0.0,No Loan,1,0
+70,South,Mass Market,2,14387.85,26,78.33,136.41,0.0,No Loan,0,0
+71,West,Emerging Affluent,3,33012.53,27,77.67,154.75,0.0,No Loan,0,0
+72,Northeast,Mass Market,1,8488.73,15,53.73,170.9,18675.98,Current,0,0
+73,West,Mass Market,3,8113.16,9,94.57,0,0.0,No Loan,2,0
+74,Midwest,Emerging Affluent,3,7010.81,35,168.57,227.34,24278.98,Current,0,0
+75,Northeast,Mass Market,1,8421.6,30,0,21.72,0.0,No Loan,0,0
+76,Midwest,Affluent,3,28036.33,28,168.77,285.65,0.0,No Loan,1,0
+77,Midwest,Mass Market,1,5521.9,5,192.63,248.86,0.0,No Loan,1,0
+78,Northeast,Mass Market,1,9964.86,22,25.98,153.02,20414.39,Current,0,0
+79,South,Affluent,2,47354.53,29,239.53,383.16,0.0,No Loan,0,0
+80,Midwest,Emerging Affluent,2,12281.59,28,251.61,329.53,0.0,No Loan,1,0
+81,Northeast,Emerging Affluent,2,14082.07,31,94.1,104.24,0.0,No Loan,0,0
+82,Northeast,Mass Market,2,8335.49,23,91.18,9.71,2754.12,Current,1,0
+83,Northeast,Mass Market,1,3942.52,28,156.84,151.73,0.0,No Loan,0,0
+84,Midwest,Mass Market,2,8250.4,24,70.08,121.9,0.0,No Loan,0,0
+85,West,Mass Market,1,1519.9,25,63.11,372.61,13793.06,Current,0,0
+86,West,Emerging Affluent,1,5304.55,21,7.62,106.07,4338.64,Current,0,0
+87,South,Emerging Affluent,3,22542.0,17,127.53,41.98,0.0,No Loan,0,0
+88,Northeast,Emerging Affluent,2,11544.37,21,139.93,0,24881.91,Current,0,0
+89,West,Mass Market,2,13138.39,16,199.95,221.12,0.0,No Loan,0,0
+90,South,Mass Market,1,4015.11,22,121.03,213.21,16251.89,Charged Off,2,0
+91,Midwest,Mass Market,1,7340.24,25,124.16,114.74,0.0,No Loan,2,0
+92,Northeast,Mass Market,2,4568.66,27,170.69,90.4,0.0,No Loan,1,0
+93,West,Emerging Affluent,2,0,18,87.74,206.26,0.0,No Loan,0,0
+94,South,Emerging Affluent,1,1976.69,20,66.89,121.67,9589.59,Current,0,0
+95,West,Emerging Affluent,2,16200.96,23,166.34,0,0.0,No Loan,1,0
+96,South,Affluent,4,10569.76,23,156.78,220.45,0.0,No Loan,0,0
+97,Northeast,Mass Market,2,10264.6,22,52.7,136.13,0.0,No Loan,0,0
+98,West,Mass Market,1,4009.53,15,0,26.75,0.0,No Loan,1,0
+99,Northeast,Mass Market,1,8061.77,11,100.38,71.56,3079.09,Current,2,0
+100,South,Emerging Affluent,4,19056.89,27,82.81,254.57,12925.58,30+ Delinquent,0,0
+101,South,Emerging Affluent,2,9145.42,31,174.65,276.2,0.0,No Loan,0,0
+102,Northeast,Mass Market,2,4367.38,21,8.51,266.33,0.0,No Loan,1,0
+103,Midwest,Mass Market,2,6324.44,17,180.21,188.26,0.0,No Loan,1,0
+104,West,Emerging Affluent,3,16632.82,25,41.79,270.51,0.0,No Loan,2,0
+105,Northeast,Emerging Affluent,2,11870.51,24,82.87,108.47,0.0,No Loan,0,0
+106,Northeast,Emerging Affluent,4,30807.45,23,74.28,38.0,0.0,No Loan,0,0
+107,South,Emerging Affluent,2,13528.67,20,200.71,230.97,0.0,No Loan,0,1
+108,Midwest,Mass Market,1,0,22,28.25,75.95,0.0,No Loan,1,0
+109,Midwest,Mass Market,3,0,19,69.3,93.48,0.0,No Loan,0,0
+110,Northeast,Emerging Affluent,2,9500.35,26,102.5,186.58,6357.28,Current,2,0
+111,Northeast,Mass Market,2,10900.54,17,0,287.42,22641.86,Current,0,0
+112,South,Mass Market,2,7050.4,22,83.32,188.15,0.0,No Loan,0,0
+113,South,Mass Market,2,1485.4,29,79.09,56.76,0.0,No Loan,1,1
+114,Midwest,Mass Market,2,1291.54,5,39.01,188.29,0.0,No Loan,0,0
+115,West,Mass Market,2,7833.25,17,92.78,136.39,0.0,No Loan,1,0
+116,Northeast,Affluent,3,30761.3,21,114.24,298.16,10786.1,Current,0,0
+117,South,Emerging Affluent,2,13761.44,28,139.99,304.39,0.0,No Loan,0,0
+118,Midwest,Emerging Affluent,3,9201.31,17,139.59,263.91,0.0,No Loan,0,0
+119,Midwest,Affluent,3,52573.0,36,273.64,233.33,0.0,No Loan,0,0
+120,Northeast,Mass Market,2,7737.79,12,86.91,0,0.0,No Loan,2,1
+121,West,Mass Market,1,3923.42,13,162.6,149.31,0.0,No Loan,0,0
+122,Midwest,Emerging Affluent,2,19074.79,29,75.64,232.15,0.0,No Loan,1,0
+123,Midwest,Mass Market,2,6648.53,20,70.77,122.78,0.0,No Loan,1,0
+124,South,Mass Market,2,11935.61,7,137.08,124.93,12130.87,30+ Delinquent,0,0
+125,West,Mass Market,1,4258.11,22,207.03,279.79,0.0,No Loan,3,0
+126,Midwest,Mass Market,1,3894.44,14,122.67,97.33,0.0,No Loan,1,1
+127,Northeast,Mass Market,2,6380.13,23,55.81,259.75,7192.73,Current,1,0
+128,Northeast,Affluent,2,50260.08,35,245.34,189.36,0.0,No Loan,0,0
+129,South,Emerging Affluent,1,21407.08,28,28.97,355.11,0.0,No Loan,1,0
+130,Midwest,Mass Market,1,4277.87,15,0,190.76,8286.49,Current,0,0
+131,South,Emerging Affluent,1,7835.96,25,187.86,253.29,0.0,No Loan,0,0
+132,Midwest,Mass Market,1,1965.98,25,147.16,203.72,12440.01,Current,2,0
+133,West,Mass Market,2,0,13,116.58,173.59,25475.24,Charged Off,1,0
+134,Midwest,Mass Market,2,5804.51,24,79.72,151.9,8908.77,Current,1,0
+135,South,Mass Market,1,14265.67,18,120.6,122.79,0.0,No Loan,0,0
+136,South,Emerging Affluent,3,11545.03,9,72.45,127.49,0.0,No Loan,0,0
+137,West,Mass Market,2,725.42,21,126.84,248.36,0.0,No Loan,0,0
+138,Northeast,Affluent,3,29836.05,28,223.06,135.71,0.0,No Loan,1,0
+139,Midwest,Mass Market,2,3453.69,21,126.49,192.22,0.0,No Loan,0,0
+140,Northeast,Emerging Affluent,3,12054.99,18,132.8,188.21,0.0,No Loan,0,0
+141,Northeast,Mass Market,2,6051.64,15,0,0,8206.54,Current,1,0
+142,Northeast,Mass Market,2,4147.87,15,126.75,243.65,0.0,No Loan,1,0
+143,Midwest,Mass Market,2,8480.84,24,128.5,200.24,0.0,No Loan,1,0
+144,West,Affluent,3,32567.09,26,171.02,270.98,5478.25,Current,0,0
+145,Northeast,Mass Market,2,14040.35,16,104.9,16.56,0.0,No Loan,0,0
+146,Northeast,Affluent,3,22156.9,26,234.1,182.24,6536.63,Current,0,0
+147,West,Mass Market,2,5595.65,10,0,102.25,20831.01,Current,0,0
+148,Northeast,Affluent,3,33418.04,26,209.27,375.7,13908.38,Current,1,1
+149,Midwest,Mass Market,2,2987.91,21,0,130.04,13601.56,30+ Delinquent,1,1
+150,Northeast,Emerging Affluent,3,2580.69,22,220.91,163.52,0.0,No Loan,0,0
+151,South,Mass Market,1,4181.86,12,151.45,0,0.0,No Loan,2,0
+152,Northeast,Mass Market,2,1669.97,20,119.73,153.81,0.0,No Loan,1,0
+153,Northeast,Emerging Affluent,4,15164.82,26,269.41,139.79,18296.8,Current,0,0
+154,Northeast,Mass Market,1,10956.69,19,0,37.3,18044.06,Current,0,0
+155,Northeast,Mass Market,2,6302.75,26,147.67,0,23355.32,Current,1,0
+156,Northeast,Mass Market,1,4356.28,17,91.71,138.04,14714.75,30+ Delinquent,1,0
+157,West,Affluent,3,23843.27,24,258.01,259.83,0.0,No Loan,1,0
+158,South,Mass Market,1,7425.52,28,8.56,165.15,21051.95,30+ Delinquent,1,0
+159,Midwest,Emerging Affluent,2,22140.24,15,149.18,98.44,0.0,No Loan,1,0
+160,West,Mass Market,3,3195.57,1,89.2,26.16,0.0,No Loan,0,0
+161,Midwest,Emerging Affluent,3,12314.86,25,78.34,136.9,0.0,No Loan,1,0
+162,Northeast,Mass Market,3,12424.98,14,96.65,100.28,0.0,No Loan,0,0
+163,Midwest,Emerging Affluent,2,11196.56,26,43.82,232.02,9602.12,Current,0,0
+164,Northeast,Mass Market,1,7829.46,12,140.96,34.04,0.0,No Loan,0,0
+165,South,Mass Market,2,0,30,91.39,114.13,24596.14,Current,2,1
+166,West,Affluent,3,12089.47,31,281.15,192.08,0.0,No Loan,2,1
+167,Midwest,Mass Market,1,509.05,21,27.25,255.85,0.0,No Loan,0,0
+168,Midwest,Mass Market,2,0,14,82.78,0,0.0,No Loan,0,0
+169,West,Emerging Affluent,2,24923.27,23,94.34,93.41,0.0,No Loan,2,0
+170,Northeast,Emerging Affluent,3,17458.68,18,240.38,289.44,0.0,No Loan,2,0
+171,Midwest,Mass Market,1,5454.44,19,131.84,186.66,18914.37,Current,0,0
+172,Northeast,Mass Market,1,11748.97,22,36.51,0,0.0,No Loan,2,0
+173,Midwest,Mass Market,1,6961.2,26,115.15,46.32,18794.79,30+ Delinquent,0,0
+174,Northeast,Affluent,4,10525.32,29,356.25,365.66,0.0,No Loan,0,0
+175,South,Mass Market,3,4975.22,17,96.65,93.57,22038.78,30+ Delinquent,0,1
+176,Midwest,Mass Market,2,3628.25,18,67.26,268.76,20961.21,Current,0,0
+177,Midwest,Emerging Affluent,3,12551.16,19,132.16,340.43,0.0,No Loan,0,0
+178,West,Mass Market,1,11044.69,15,102.39,43.48,17845.33,Current,1,0
+179,Northeast,Emerging Affluent,2,13369.85,18,162.85,68.87,5650.63,Current,0,0
+180,South,Emerging Affluent,2,16112.33,21,61.42,130.41,9844.29,Current,0,0
+181,Midwest,Emerging Affluent,2,5328.49,23,204.76,105.34,0.0,No Loan,0,1
+182,South,Mass Market,2,11951.47,19,101.88,116.71,0.0,No Loan,0,0
+183,Northeast,Mass Market,1,0,22,74.6,0,0.0,No Loan,1,0
+184,Northeast,Mass Market,1,7855.66,29,34.66,0,24887.56,Current,0,0
+185,West,Mass Market,1,5451.07,11,148.38,143.1,2733.79,Current,1,0
+186,Midwest,Mass Market,2,0,26,36.72,95.26,8812.55,Current,0,0
+187,West,Emerging Affluent,3,23402.59,21,204.54,129.58,0.0,No Loan,0,1
+188,Northeast,Emerging Affluent,2,5371.62,17,174.18,195.12,0.0,No Loan,0,0
+189,West,Emerging Affluent,4,5660.06,19,180.51,144.63,6414.32,Current,2,0
+190,Northeast,Mass Market,1,3827.66,20,126.42,72.19,0.0,No Loan,0,0
+191,Midwest,Mass Market,1,2429.56,8,118.32,48.63,16174.2,Current,2,0
+192,South,Mass Market,2,3998.05,20,87.2,12.59,0.0,No Loan,0,0
+193,South,Mass Market,2,7189.16,21,0,118.16,0.0,No Loan,0,0
+194,South,Mass Market,3,4372.26,29,1.33,273.21,24910.39,Current,0,0
+195,Northeast,Mass Market,1,13.36,19,75.25,201.52,0.0,No Loan,1,0
+196,South,Emerging Affluent,3,15768.06,29,301.81,231.67,0.0,No Loan,0,0
+197,South,Affluent,4,11173.16,39,351.19,286.97,0.0,No Loan,3,0
+198,South,Mass Market,2,8089.67,20,51.47,130.02,0.0,No Loan,0,0
+199,West,Emerging Affluent,2,19669.68,26,68.37,0,16809.73,Charged Off,0,0
+200,South,Affluent,3,46697.65,36,174.01,357.71,22851.51,Current,0,0
+201,Midwest,Affluent,2,38840.18,27,283.21,301.34,13209.26,Current,2,0
+202,Midwest,Mass Market,2,6177.54,23,133.6,114.21,16433.64,Current,2,0
+203,South,Mass Market,3,11157.34,15,107.55,90.3,0.0,No Loan,1,0
+204,South,Emerging Affluent,3,12323.61,23,193.81,77.15,0.0,No Loan,1,0
+205,Northeast,Mass Market,2,1021.21,30,16.01,17.42,0.0,No Loan,0,1
+206,West,Emerging Affluent,2,18782.89,17,128.43,167.66,0.0,No Loan,0,0
+207,West,Emerging Affluent,2,0,15,254.61,129.67,3067.46,Current,0,0
+208,West,Mass Market,1,5055.31,30,65.7,84.48,0.0,No Loan,1,0
+209,West,Mass Market,3,2657.16,10,13.52,0,0.0,No Loan,0,0
+210,South,Emerging Affluent,4,10039.22,18,83.41,173.78,11788.82,Current,1,1
+211,South,Mass Market,2,9845.29,24,71.28,165.43,0.0,No Loan,1,0
+212,Midwest,Mass Market,3,4883.35,17,120.75,106.8,0.0,No Loan,0,0
+213,Northeast,Mass Market,1,5121.38,20,57.16,197.91,0.0,No Loan,0,0
+214,Northeast,Mass Market,3,0,16,78.07,35.36,22332.82,Current,0,0
+215,Midwest,Emerging Affluent,2,18618.1,29,265.31,245.67,9833.47,Current,0,0
+216,Midwest,Mass Market,2,9568.14,31,96.37,0,0.0,No Loan,3,0
+217,Midwest,Affluent,3,34193.27,41,144.63,254.05,0.0,No Loan,0,0
+218,South,Emerging Affluent,3,0,24,137.53,238.15,0.0,No Loan,2,0
+219,South,Mass Market,1,0,8,205.41,236.15,19880.15,Current,0,1
+220,South,Mass Market,1,5756.9,9,141.33,93.59,21606.9,Current,1,0
+221,Midwest,Mass Market,2,6094.15,5,61.53,0,4631.81,Current,0,0
+222,Northeast,Mass Market,1,5204.02,17,0,204.79,19330.2,Current,2,0
+223,Midwest,Mass Market,2,4650.87,13,72.91,19.27,0.0,No Loan,0,0
+224,Midwest,Mass Market,3,9707.23,16,68.43,23.1,0.0,No Loan,2,0
+225,Midwest,Emerging Affluent,2,28207.5,23,130.6,153.62,16332.45,30+ Delinquent,0,0
+226,Northeast,Emerging Affluent,3,15628.33,24,84.34,288.91,16945.25,Current,0,1
+227,South,Mass Market,2,0,15,0,151.69,7547.44,Current,1,0
+228,South,Emerging Affluent,2,12765.27,26,169.31,195.48,0.0,No Loan,2,0
+229,West,Affluent,3,25312.53,16,302.83,306.51,0.0,No Loan,1,0
+230,Midwest,Mass Market,1,1219.9,17,57.59,12.46,0.0,No Loan,2,1
+231,South,Emerging Affluent,2,3599.7,26,130.54,205.38,0.0,No Loan,2,1
+232,Midwest,Mass Market,1,12814.51,8,154.61,127.31,0.0,No Loan,4,1
+233,Midwest,Mass Market,2,8905.45,11,36.74,211.18,3028.71,Current,0,0
+234,Midwest,Emerging Affluent,3,35988.24,32,81.55,285.37,0.0,No Loan,0,0
+235,South,Mass Market,2,4727.51,12,75.55,117.57,0.0,No Loan,0,0
+236,Midwest,Mass Market,2,0,18,20.5,170.26,0.0,No Loan,0,0
+237,West,Mass Market,1,13317.29,8,131.85,168.84,0.0,No Loan,0,0
+238,Northeast,Emerging Affluent,3,8466.23,21,182.92,218.01,0.0,No Loan,0,0
+239,West,Mass Market,1,6719.09,27,187.9,292.08,15286.46,Current,0,0
+240,Northeast,Emerging Affluent,2,3087.26,22,94.76,68.89,12454.44,Current,0,0
+241,Midwest,Mass Market,1,7225.34,20,65.69,86.25,0.0,No Loan,3,1
+242,Midwest,Emerging Affluent,2,16156.17,34,37.29,222.0,0.0,No Loan,1,0
+243,Northeast,Mass Market,2,4428.4,24,92.64,59.65,0.0,No Loan,1,1
+244,West,Mass Market,2,7639.71,16,119.29,178.09,24784.03,Current,0,0
+245,Northeast,Affluent,3,13979.82,39,203.32,255.66,0.0,No Loan,1,0
+246,Northeast,Emerging Affluent,2,11649.4,24,197.95,171.85,0.0,No Loan,0,0
+247,Midwest,Mass Market,1,4385.16,26,58.07,146.2,0.0,No Loan,1,0
+248,South,Mass Market,1,0,23,132.95,164.18,0.0,No Loan,0,0
+249,Midwest,Mass Market,1,7549.85,10,61.87,170.46,21966.08,Current,1,0
+250,Midwest,Emerging Affluent,1,2886.75,20,178.0,82.74,0.0,No Loan,0,0
+251,Northeast,Mass Market,2,8036.88,12,70.64,52.51,0.0,No Loan,0,0
+252,West,Affluent,1,32212.24,31,221.66,377.06,11193.89,Current,0,0
+253,Northeast,Mass Market,3,5631.67,9,0,210.86,0.0,No Loan,0,0
+254,South,Mass Market,1,3112.26,13,73.28,18.4,17392.5,Current,1,0
+255,Midwest,Mass Market,1,7023.8,12,53.5,78.34,0.0,No Loan,1,0
+256,Midwest,Mass Market,1,6448.99,31,195.07,115.67,12947.16,Current,1,1
+257,Northeast,Emerging Affluent,2,14739.06,32,207.53,168.63,0.0,No Loan,0,0
+258,Midwest,Mass Market,2,9257.14,7,128.67,93.24,11340.75,Current,0,0
+259,South,Affluent,2,11687.2,30,186.01,399.25,0.0,No Loan,0,0
+260,South,Mass Market,2,0,24,77.2,185.18,0.0,No Loan,1,0
+261,West,Mass Market,3,7199.08,9,44.54,288.87,0.0,No Loan,0,0
+262,South,Mass Market,1,1080.45,26,14.17,234.17,0.0,No Loan,1,0
+263,West,Mass Market,2,9422.3,26,18.06,2.57,23491.66,Current,0,0
+264,Midwest,Emerging Affluent,2,27632.1,26,228.68,266.27,0.0,No Loan,1,0
+265,Northeast,Mass Market,3,5495.62,16,175.91,166.24,14240.42,30+ Delinquent,0,0
+266,Midwest,Mass Market,2,7422.28,26,129.78,25.14,4687.36,Current,1,0
+267,South,Affluent,3,67759.18,33,142.46,279.32,0.0,No Loan,0,0
+268,Northeast,Mass Market,2,13624.83,15,104.46,108.68,23305.49,30+ Delinquent,0,0
+269,South,Emerging Affluent,1,4812.33,26,235.0,256.04,11058.1,Current,0,1
+270,West,Affluent,2,42467.99,30,225.87,296.11,0.0,No Loan,0,0
+271,West,Mass Market,2,85.83,11,61.11,209.66,0.0,No Loan,0,1
+272,West,Mass Market,1,11890.08,21,17.42,184.68,25952.01,Current,0,0
+273,Northeast,Mass Market,2,5111.4,20,104.85,21.26,0.0,No Loan,0,0
+274,Northeast,Emerging Affluent,2,16369.8,23,162.99,205.96,11643.61,Current,3,0
+275,Northeast,Emerging Affluent,3,6712.6,24,216.12,251.62,0.0,No Loan,1,0
+276,South,Mass Market,1,12007.3,25,136.75,10.15,0.0,No Loan,2,0
+277,South,Mass Market,1,0,22,82.93,58.73,0.0,No Loan,0,0
+278,South,Mass Market,2,7098.8,25,117.27,319.38,0.0,No Loan,3,1
+279,South,Mass Market,3,12598.03,12,141.36,123.48,15694.74,Current,1,0
+280,Midwest,Mass Market,1,6585.6,2,86.46,128.62,0.0,No Loan,1,0
+281,Northeast,Mass Market,2,6345.59,22,172.29,28.92,2754.15,Current,0,0
+282,West,Mass Market,2,3215.69,18,14.31,227.0,10772.49,Current,0,0
+283,Midwest,Emerging Affluent,3,30772.6,30,176.63,0,0.0,No Loan,0,0
+284,South,Mass Market,2,8454.13,9,178.1,37.5,17272.61,Current,0,1
+285,Midwest,Mass Market,1,0,8,158.91,194.22,0.0,No Loan,0,0
+286,Midwest,Affluent,2,15211.0,23,138.55,259.25,0.0,No Loan,0,0
+287,West,Affluent,1,25611.72,20,212.84,214.27,0.0,No Loan,0,0
+288,West,Mass Market,1,11964.41,10,77.63,189.31,0.0,No Loan,0,1
+289,South,Emerging Affluent,1,15461.23,22,0,207.54,6127.32,30+ Delinquent,0,0
+290,Midwest,Mass Market,2,1744.6,12,25.7,43.44,11542.32,Current,1,0
+291,Midwest,Mass Market,2,7364.08,20,84.5,102.64,0.0,No Loan,0,0
+292,Midwest,Emerging Affluent,3,20268.78,22,106.51,178.35,0.0,No Loan,1,0
+293,Midwest,Mass Market,2,16135.07,16,71.34,113.99,0.0,No Loan,0,0
+294,Northeast,Mass Market,3,0,10,48.87,200.78,25108.42,Current,1,0
+295,South,Emerging Affluent,3,20705.27,18,78.26,264.91,8859.47,Current,0,0
+296,West,Mass Market,1,83.91,9,88.67,0,0.0,No Loan,1,0
+297,Midwest,Mass Market,2,10709.33,14,161.88,250.66,0.0,No Loan,2,0
+298,South,Mass Market,2,10844.27,24,73.38,132.11,0.0,No Loan,0,0
+299,Northeast,Affluent,2,18601.75,21,123.31,125.56,0.0,No Loan,1,0
+300,Northeast,Affluent,3,33449.94,35,214.09,208.18,0.0,No Loan,0,0
